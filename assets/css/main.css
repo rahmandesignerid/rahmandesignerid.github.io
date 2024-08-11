@@ -460,8 +460,8 @@ h6 {
 section,
 .section {
   color: var(--default-color);
-  background-color: var(--background-color);
-  padding: 60px 0;
+  background-color: #f7f7f7;
+  padding: 20px 0;
   scroll-margin-top: 90px;
   overflow: clip;
 }
